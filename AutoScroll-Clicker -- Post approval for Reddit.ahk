@@ -8,7 +8,7 @@
 ; Press 'F1' to start the script and 'Esc' to stop it.
 
 ; This script is for educational purposes only. Use it at your own risk.
-; Your reddit must be in dark mode for this script to work.
+; NOTE: Your reddit must be in dark mode for this script to work.
 ; If you want to make your life easier by automating your daily tasks, contact me at: karanveerchouhan@gmail.com
 ; or you can hire me on Fiverr: https://www.fiverr.com/thekvc
 
